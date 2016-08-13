@@ -1,0 +1,46 @@
+  @import url(https://fonts.googleapis.com/css?family=Indie+Flower|Oswald););
+
+html{
+  height= 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/dark-bg1.jpg");
+  color: white;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 20px;
+}
+
+h1 {
+  color: green;
+  font-family: "Indie Flower";
+}
+
+.title {
+  font-size: 5em;
+}
+
+.btn {
+  color: black;
+  background-color: orange;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+  font-family: Oswald;
+  font-size: inherit;
+
+
+}
+
+.guess{
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.trophy{
+  height: 300px;
+}
